@@ -1,0 +1,20 @@
+{
+  "name": "termprojts",
+  "version": "1.0.0",
+  "description": "Typescript version of https://github.com/shamseen/CS602_Project_Rahman_Shamseen",
+  "homepage": "https://github.com/shamseen/TermProjTS#readme",
+  "bugs": {
+    "url": "https://github.com/shamseen/TermProjTS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamseen/TermProjTS.git"
+  },
+  "license": "ISC",
+  "author": "shamseen",
+  "type": "module",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
