@@ -2,7 +2,7 @@
 Typescript version of https://github.com/shamseen/CS602_Project_Rahman_Shamseen
 
 [api tutorial]: https://nodesource.com/blog/scalable-api-with-node.js-and-typescript
-[server tuorial]: https://dev.to/justwonder/setting-up-an-express-typescript-server-a-step-by-step-guide-gic
+[server tutorial]: https://dev.to/justwonder/setting-up-an-express-typescript-server-a-step-by-step-guide-gic
 
 # Server
 File structure with the [api tutorial][api tutorial]

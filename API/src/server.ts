@@ -14,9 +14,12 @@ app.get('/', (req: Request, res: Response) => {
   res.send('Hello, TypeScript + Express!');
 });
 
-import dbInitRoutes from './routes/dbinitRoutes';
+import dbInitRoutes from './Routes/dbinitRoutes';
+import productRoutes from './Routes/productRoutes';
 
 app.use('/dbinit', dbInitRoutes);
+app.use('/api', productRoutes);
+
 
 // Start the server
 app.listen(PORT, () => {
