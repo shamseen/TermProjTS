@@ -1,5 +1,5 @@
 import { Router, Request, Response } from 'express';
-import { seedProductsTable } from '../config/dbInit_sqlite';
+import { seedProductsTable, seedUsersTable } from '../config/dbInit_sqlite';
 
 const router = Router();
 
@@ -9,6 +9,11 @@ router.get('/products', (req: Request, res: Response) => {
 
 router.get("/products/sqlite", async (req: Request, res: Response) => {
   const data =  await seedProductsTable();
+  res.json(data);
+});
+
+router.get("/users/sqlite", async (req: Request, res: Response) => {
+  const data =  await seedUsersTable();
   res.json(data);
 });
 
