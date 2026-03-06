@@ -1,0 +1,54 @@
+[{
+  "name": "Organic Chia Seeds",
+  "description": "Nutritious chia seeds great for smoothies",
+  "price": 11.99,
+  "stock": 196
+},
+{
+  "name": "Digital Meat Thermometer",
+  "description": "Instant-read thermometer for precise cooking temperatures.",
+  "price": 24.99,
+  "stock": 221
+},
+{
+  "name": "Magnetic Phone Car Mount",
+  "description": "Strong magnetic holder for smartphones in cars.",
+  "price": 14.99,
+  "stock": 166
+},
+{
+  "name": "Pet Training Pads",
+  "description": "Absorbent training pads for puppies and kittens.",
+  "price": 24.99,
+  "stock": 32
+},
+{
+  "name": "Peach Mango Smoothie",
+  "description": "A refreshing blend of peaches and mangoes for a delicious smoothie.",
+  "price": 3.49,
+  "stock": 219
+},
+{
+  "name": "Peanut Butter Pretzel Bites",
+  "description": "Crunchy pretzel bites filled with peanut butter",
+  "price": 4.19,
+  "stock": 46
+},
+{
+  "name": "Non-Stick Grill Pan",
+  "description": "Heavy-duty grill pan for indoor grilling.",
+  "price": 39.99,
+  "stock": 211
+},
+{
+  "name": "Puffer Winter Coat",
+  "description": "A warm and stylish puffer coat perfect for winter weather.",
+  "price": 99.99,
+  "stock": 243
+},
+{
+  "name": "Almond Butter Cookies",
+  "description": "Soft cookies made with almond butter",
+  "price": 4.49,
+  "stock": 229
+}]

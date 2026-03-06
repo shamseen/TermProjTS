@@ -1,0 +1,84 @@
+[{
+  "name": "Organic Chia Seeds",
+  "description": "Nutritious chia seeds great for smoothies",
+  "price": 11.99,
+  "stock": 196
+},
+{
+  "name": "Digital Meat Thermometer",
+  "description": "Instant-read thermometer for precise cooking temperatures.",
+  "price": 24.99,
+  "stock": 221
+},
+{
+  "name": "Magnetic Phone Car Mount",
+  "description": "Strong magnetic holder for smartphones in cars.",
+  "price": 14.99,
+  "stock": 166
+},
+{
+  "name": "Pet Training Pads",
+  "description": "Absorbent training pads for puppies and kittens.",
+  "price": 24.99,
+  "stock": 32
+},
+{
+  "name": "Peach Mango Smoothie",
+  "description": "A refreshing blend of peaches and mangoes for a delicious smoothie.",
+  "price": 3.49,
+  "stock": 219
+},
+{
+  "name": "Peanut Butter Pretzel Bites",
+  "description": "Crunchy pretzel bites filled with peanut butter",
+  "price": 4.19,
+  "stock": 46
+},
+{
+  "name": "Non-Stick Grill Pan",
+  "description": "Heavy-duty grill pan for indoor grilling.",
+  "price": 39.99,
+  "stock": 211
+},
+{
+  "name": "Puffer Winter Coat",
+  "description": "A warm and stylish puffer coat perfect for winter weather.",
+  "price": 99.99,
+  "stock": 243
+},
+{
+  "name": "Almond Butter Cookies",
+  "description": "Soft cookies made with almond butter",
+  "price": 4.49,
+  "stock": 229
+},
+{"name":"Garden Tool Set","description":"Complete set of gardening tools for all your needs.","price":34.99,"stock":180},
+{"name":"Tomatillo Salsa","description":"Tangy salsa made from tomatillos and peppers.","price":3.29,"stock":226},
+{"name":"Adjustable Kneeling Pad","description":"Comfortable kneeling pad for gardening or home projects.","price":18.99,"stock":1},
+{"name":"Greek Yogurt","description":"Creamy Greek yogurt packed with protein and probiotics.","price":1.99,"stock":2},
+{"name":"Thai Peanut Dressing","description":"A creamy and tangy dressing perfect for salads or as a dipping sauce.","price":3.29,"stock":30},
+{"name":"Scent Diffuser","description":"Ultrasonic essential oil diffuser with LED lights.","price":34.99,"stock":253},
+{"name":"Mini Air Hockey Table","description":"Fun tabletop air hockey for home or office.","price":39.99,"stock":40},
+{"name":"Decorative Wall Tapestry","description":"Colorful tapestry to add charm to any room.","price":34.99,"stock":125},
+{"name":"Personal Blender","description":"Compact blender for quick smoothies and shakes.","price":39.99,"stock":234},
+{"name":"Vanilla Almond Granola","description":"Crunchy granola with almonds and a hint of vanilla, perfect for breakfast.","price":4.29,"stock":258},
+{"name":"Portable Dog Water Bottle","description":"Convenient water bottle for pets on the go.","price":18.99,"stock":207},
+{"name":"Frozen Acai Bowl","description":"Healthy frozen acai bowl with toppings.","price":6.49,"stock":179},
+{"name":"Trackpad for Laptop","description":"Wireless trackpad for enhanced laptop navigation.","price":49.99,"stock":198},
+{"name":"Chipotle Black Bean Burger","description":"Spicy black bean burgers, great on the grill.","price":4.99,"stock":25},
+{"name":"Coconut Chips","description":"Crunchy, toasted coconut chips for snacking.","price":3.59,"stock":39},
+{"name":"Dog Car Seat Cover","description":"Waterproof cover to protect car seats from pet hair and dirt.","price":39.99,"stock":292},
+{"name":"Applewood Smoked Bacon","description":"Delicious bacon with a rich applewood smoked flavor.","price":6.99,"stock":36},
+{"name":"Vanilla Bean Greek Yogurt","description":"Smooth Greek yogurt infused with vanilla bean flavor.","price":1.99,"stock":34},
+{"name":"Wire Shelving Unit","description":"Adjustable shelving unit for home or garage storage.","price":69.99,"stock":103},
+{"name":"Hiking Boots","description":"Comfortable hiking boots for outdoor adventures.","price":79.99,"stock":194},
+{"name":"Bluetooth Car Adapter","description":"Connect your phone to the car's audio system via Bluetooth.","price":24.99,"stock":278},
+{"name":"Sliced Ham","description":"Delicious and fully cooked sliced ham, ready to eat.","price":5.49,"stock":221},
+{"name":"Sriracha Sauce","description":"Spicy chili sauce for an extra kick in your meals.","price":3.19,"stock":173},
+{"name":"Beef Sirloin Steak","description":"Juicy and tender beef sirloin steak, grass-fed.","price":15.99,"stock":102},
+{"name":"Honey Sesame Chicken","description":"A delicious chicken dish featuring honey and sesame flavors.","price":8.99,"stock":139},
+{"name":"Oversized Denim Shirt","description":"A trendy oversized denim shirt perfect for layering.","price":49.99,"stock":211},
+{"name":"Handmade Wooden Utensil Set","description":"Unique handcrafted utensils for cooking and serving.","price":24.99,"stock":158},
+{"name":"Cotton Basic Tank","description":"Essential cotton tank top, perfect for layering.","price":14.99,"stock":63},
+{"name":"Foldable Picnic Table","description":"Lightweight and portable picnic table for outdoor use.","price":49.99,"stock":27},
+{"name":"Black Bean & Corn Salad","description":"A fresh salad made with black beans, corn, and a zesty dressing, great for summer cookouts.","price":3.99,"stock":46}]
